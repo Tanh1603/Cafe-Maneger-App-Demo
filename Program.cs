@@ -18,5 +18,7 @@ namespace WindowsFormsApp1
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new fLogin());
         }
+
+        // Thành công commit đầu tiên
     }
 }
